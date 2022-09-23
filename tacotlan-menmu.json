@@ -1,0 +1,181 @@
+[
+{
+    "precio": 45,
+    "mas": "TACO PASTOR O BISTECK, QUESO, GUACAMOLE",
+    "clasificacion": "tacos",
+    "id": 1,
+    "title": "TACO TACOTLAN",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-wPLSVHYCZ5C9OAAl81QrnGz_1rmcnUbfu74sZc_AFUp8bWtS30oSf7TiLETm5tBcTBHQzSGL8UtDffMuTkSber_kTMSJXi0qcv4Y7hGPTOqGX0_Ehp0_zaFZIm7nS-Gp3kKaFQl3LzN5OfT9qyU-_aeZnNfrus1-muN1VTgWUpWkmqF65UB4Tmli_A/s320/291951521_458833199577890_927046634370232450_n.jpg"
+  },
+  {
+    "precio": 50,
+    "mas": "CAMARÓN, COCO Y ADEREZO DE MANGO HABANERO",
+    "clasificacion": "tacos",
+    "id": 2,
+    "title": "TACO CAMARÓN COCO",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-wPLSVHYCZ5C9OAAl81QrnGz_1rmcnUbfu74sZc_AFUp8bWtS30oSf7TiLETm5tBcTBHQzSGL8UtDffMuTkSber_kTMSJXi0qcv4Y7hGPTOqGX0_Ehp0_zaFZIm7nS-Gp3kKaFQl3LzN5OfT9qyU-_aeZnNfrus1-muN1VTgWUpWkmqF65UB4Tmli_A/s320/291951521_458833199577890_927046634370232450_n.jpg"
+  },
+  {
+    "precio": 50,
+    "mas": "CAMARÓN A LA DIABLA Y PAPA PAJA",
+    "clasificacion": "tacos",
+    "id": 3,
+    "title": "TACO A LA DIABLA",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-wPLSVHYCZ5C9OAAl81QrnGz_1rmcnUbfu74sZc_AFUp8bWtS30oSf7TiLETm5tBcTBHQzSGL8UtDffMuTkSber_kTMSJXi0qcv4Y7hGPTOqGX0_Ehp0_zaFZIm7nS-Gp3kKaFQl3LzN5OfT9qyU-_aeZnNfrus1-muN1VTgWUpWkmqF65UB4Tmli_A/s320/291951521_458833199577890_927046634370232450_n.jpg"
+  },
+  {
+    "precio": 60,
+    "mas": "TACO CON CAMARÓN CAPEADO BAÑADO EN SALSA DE TAMARINDO CON UN TOQUE DE HABANERO",
+    "clasificacion": "tacos",
+    "id": 4,
+    "title": "TACO CAMARÓN CARAMELO",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-wPLSVHYCZ5C9OAAl81QrnGz_1rmcnUbfu74sZc_AFUp8bWtS30oSf7TiLETm5tBcTBHQzSGL8UtDffMuTkSber_kTMSJXi0qcv4Y7hGPTOqGX0_Ehp0_zaFZIm7nS-Gp3kKaFQl3LzN5OfT9qyU-_aeZnNfrus1-muN1VTgWUpWkmqF65UB4Tmli_A/s320/291951521_458833199577890_927046634370232450_n.jpg"
+  },
+  {
+    "precio": 50,
+    "mas": "ARRACHERA, CAMARÓN, GUACAMOLE Y PAPA PAJA",
+    "clasificacion": "tacos",
+    "id": 5,
+    "title": "TACO MAR Y TIERRA",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-wPLSVHYCZ5C9OAAl81QrnGz_1rmcnUbfu74sZc_AFUp8bWtS30oSf7TiLETm5tBcTBHQzSGL8UtDffMuTkSber_kTMSJXi0qcv4Y7hGPTOqGX0_Ehp0_zaFZIm7nS-Gp3kKaFQl3LzN5OfT9qyU-_aeZnNfrus1-muN1VTgWUpWkmqF65UB4Tmli_A/s320/291951521_458833199577890_927046634370232450_n.jpg"
+  },
+  {
+    "precio": 50,
+    "mas": "CAMARÓN DE QUESO PHILADELPHIA ENVUELTO EN TOCINO CON ADEREZO DE MANGO",
+    "clasificacion": "tacos",
+    "id": 6,
+    "title": "TACO MOMIA",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-wPLSVHYCZ5C9OAAl81QrnGz_1rmcnUbfu74sZc_AFUp8bWtS30oSf7TiLETm5tBcTBHQzSGL8UtDffMuTkSber_kTMSJXi0qcv4Y7hGPTOqGX0_Ehp0_zaFZIm7nS-Gp3kKaFQl3LzN5OfT9qyU-_aeZnNfrus1-muN1VTgWUpWkmqF65UB4Tmli_A/s320/291951521_458833199577890_927046634370232450_n.jpg"
+  },
+  {
+    "precio": 50,
+    "mas": "CAMARÓN RELLENO DE QUESO PHILADELPHIA BAÑADO EN SALSA CREMOSA",
+    "clasificacion": "tacos",
+    "id": 7,
+    "title": "TACO CAMARÓN PHILADELPHIA",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-wPLSVHYCZ5C9OAAl81QrnGz_1rmcnUbfu74sZc_AFUp8bWtS30oSf7TiLETm5tBcTBHQzSGL8UtDffMuTkSber_kTMSJXi0qcv4Y7hGPTOqGX0_Ehp0_zaFZIm7nS-Gp3kKaFQl3LzN5OfT9qyU-_aeZnNfrus1-muN1VTgWUpWkmqF65UB4Tmli_A/s320/291951521_458833199577890_927046634370232450_n.jpg"
+  },
+  {
+    "precio": 50,
+    "mas": "CHISTORRA RELLENA DE QUESO PHILADELPHIA Y ACOMPAÑADO CON ADEREZO DE CHIPOTLE",
+    "clasificacion": "tacos",
+    "id": 8,
+    "title": "TACO CHISTORRA PHILADELPHIA",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-wPLSVHYCZ5C9OAAl81QrnGz_1rmcnUbfu74sZc_AFUp8bWtS30oSf7TiLETm5tBcTBHQzSGL8UtDffMuTkSber_kTMSJXi0qcv4Y7hGPTOqGX0_Ehp0_zaFZIm7nS-Gp3kKaFQl3LzN5OfT9qyU-_aeZnNfrus1-muN1VTgWUpWkmqF65UB4Tmli_A/s320/291951521_458833199577890_927046634370232450_n.jpg"
+  },
+  {
+    "precio": 50,
+    "mas": "CAMARÓN, QUESO FUNDIDO, CHILE POBLANO",
+    "clasificacion": "tacos",
+    "id": 9,
+    "title": "TACO GOBERNADOR",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-wPLSVHYCZ5C9OAAl81QrnGz_1rmcnUbfu74sZc_AFUp8bWtS30oSf7TiLETm5tBcTBHQzSGL8UtDffMuTkSber_kTMSJXi0qcv4Y7hGPTOqGX0_Ehp0_zaFZIm7nS-Gp3kKaFQl3LzN5OfT9qyU-_aeZnNfrus1-muN1VTgWUpWkmqF65UB4Tmli_A/s320/291951521_458833199577890_927046634370232450_n.jpg"
+  },
+  {
+    "precio": 50,
+    "mas": "TACO DE PULPO BAÑADO EN SALSA DE CHIMICHURRI",
+    "clasificacion": "tacos",
+    "id": 10,
+    "title": "TACO PULPO A LAS BRASAS",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-wPLSVHYCZ5C9OAAl81QrnGz_1rmcnUbfu74sZc_AFUp8bWtS30oSf7TiLETm5tBcTBHQzSGL8UtDffMuTkSber_kTMSJXi0qcv4Y7hGPTOqGX0_Ehp0_zaFZIm7nS-Gp3kKaFQl3LzN5OfT9qyU-_aeZnNfrus1-muN1VTgWUpWkmqF65UB4Tmli_A/s320/291951521_458833199577890_927046634370232450_n.jpg"
+  },
+  {
+    "precio": 50,
+    "mas": "PULPO A LAS BRASAS MARINADO CON ADOBO DE PASTOR, PIÑA Y AGUACATE",
+    "clasificacion": "tacos",
+    "id": 11,
+    "title": "TACO PULPO AL PASTOR",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-wPLSVHYCZ5C9OAAl81QrnGz_1rmcnUbfu74sZc_AFUp8bWtS30oSf7TiLETm5tBcTBHQzSGL8UtDffMuTkSber_kTMSJXi0qcv4Y7hGPTOqGX0_Ehp0_zaFZIm7nS-Gp3kKaFQl3LzN5OfT9qyU-_aeZnNfrus1-muN1VTgWUpWkmqF65UB4Tmli_A/s320/291951521_458833199577890_927046634370232450_n.jpg"
+  },
+  {
+    "precio": 50,
+    "mas": "PESCADO, COCO Y ADEREZO DE MANGO HABANERO",
+    "clasificacion": "tacos",
+    "id": 12,
+    "title": "TACO PESCADO COCO",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-wPLSVHYCZ5C9OAAl81QrnGz_1rmcnUbfu74sZc_AFUp8bWtS30oSf7TiLETm5tBcTBHQzSGL8UtDffMuTkSber_kTMSJXi0qcv4Y7hGPTOqGX0_Ehp0_zaFZIm7nS-Gp3kKaFQl3LzN5OfT9qyU-_aeZnNfrus1-muN1VTgWUpWkmqF65UB4Tmli_A/s320/291951521_458833199577890_927046634370232450_n.jpg"
+  },
+  {
+    "precio": 50,
+    "mas": "CHAPULINES AL AJILLO CON GUACAMOLE",
+    "clasificacion": "tacos",
+    "id": 13,
+    "title": "TACO DE CHAPULÍN",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-wPLSVHYCZ5C9OAAl81QrnGz_1rmcnUbfu74sZc_AFUp8bWtS30oSf7TiLETm5tBcTBHQzSGL8UtDffMuTkSber_kTMSJXi0qcv4Y7hGPTOqGX0_Ehp0_zaFZIm7nS-Gp3kKaFQl3LzN5OfT9qyU-_aeZnNfrus1-muN1VTgWUpWkmqF65UB4Tmli_A/s320/291951521_458833199577890_927046634370232450_n.jpg"
+  },
+  {
+    "precio": 50,
+    "mas": "ARRACHERA CON CHAPULINES, GUACAMOLE Y QUESO OAXACA",
+    "clasificacion": "tacos",
+    "id": 14,
+    "title": "TACO EXÓTICO",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-wPLSVHYCZ5C9OAAl81QrnGz_1rmcnUbfu74sZc_AFUp8bWtS30oSf7TiLETm5tBcTBHQzSGL8UtDffMuTkSber_kTMSJXi0qcv4Y7hGPTOqGX0_Ehp0_zaFZIm7nS-Gp3kKaFQl3LzN5OfT9qyU-_aeZnNfrus1-muN1VTgWUpWkmqF65UB4Tmli_A/s320/291951521_458833199577890_927046634370232450_n.jpg"
+  },
+
+
+
+
+ 
+
+  { 
+    "precio": 50,
+    "mas": "TOSTADA TIPO BUÑUELO CON CAMARÓN CAPEADO BAÑADO EN SALSA DE TAMARINDO CON UN TOQUE DE HABANERO",
+    "clasificacion": "tostadas",
+    "id": 15,
+    "title": "TOSTADA CAMARÓN CARAMELO",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-wPLSVHYCZ5C9OAAl81QrnGz_1rmcnUbfu74sZc_AFUp8bWtS30oSf7TiLETm5tBcTBHQzSGL8UtDffMuTkSber_kTMSJXi0qcv4Y7hGPTOqGX0_Ehp0_zaFZIm7nS-Gp3kKaFQl3LzN5OfT9qyU-_aeZnNfrus1-muN1VTgWUpWkmqF65UB4Tmli_A/s320/291951521_458833199577890_927046634370232450_n.jpg"
+  },
+  {
+    "precio": 50,
+    "mas": "PULPO A LAS BRASAS MARINADO CON ADOBO DE PASTOR, PIÑA Y AGUACATE",
+    "clasificacion": "tostadas",
+    "id": 16,
+    "title": "TOSTADA PULPO AL PASTOR",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-wPLSVHYCZ5C9OAAl81QrnGz_1rmcnUbfu74sZc_AFUp8bWtS30oSf7TiLETm5tBcTBHQzSGL8UtDffMuTkSber_kTMSJXi0qcv4Y7hGPTOqGX0_Ehp0_zaFZIm7nS-Gp3kKaFQl3LzN5OfT9qyU-_aeZnNfrus1-muN1VTgWUpWkmqF65UB4Tmli_A/s320/291951521_458833199577890_927046634370232450_n.jpg"
+  },
+  { 
+    "precio": 50,
+    "mas": "BASE DE GUACAMOLE, ATÚN, CAMARÓN, CEBOLLA CARAMELIZADA",
+    "clasificacion": "tostadas",
+    "id": 17,
+    "title": "TOSTADA DE ATÚN CON CAMARÓN",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-wPLSVHYCZ5C9OAAl81QrnGz_1rmcnUbfu74sZc_AFUp8bWtS30oSf7TiLETm5tBcTBHQzSGL8UtDffMuTkSber_kTMSJXi0qcv4Y7hGPTOqGX0_Ehp0_zaFZIm7nS-Gp3kKaFQl3LzN5OfT9qyU-_aeZnNfrus1-muN1VTgWUpWkmqF65UB4Tmli_A/s320/291951521_458833199577890_927046634370232450_n.jpg"
+  },
+  { 
+    "precio": 50,
+    "mas": "CAMARÓN CURTIDO CON LIMÓN, ACOMPAÑADO DE PEPINO, SERRANO, BAÑADO EN SALSA DE AGUACHILE",
+    "clasificacion": "tostadas",
+    "id": 18,
+    "title": "TOSTADA DE AGUACHILE",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-wPLSVHYCZ5C9OAAl81QrnGz_1rmcnUbfu74sZc_AFUp8bWtS30oSf7TiLETm5tBcTBHQzSGL8UtDffMuTkSber_kTMSJXi0qcv4Y7hGPTOqGX0_Ehp0_zaFZIm7nS-Gp3kKaFQl3LzN5OfT9qyU-_aeZnNfrus1-muN1VTgWUpWkmqF65UB4Tmli_A/s320/291951521_458833199577890_927046634370232450_n.jpg"
+  },
+  { 
+    "precio": 50,
+    "mas": "CAMARONES MARINADOS CON ESPECIAS, CON UNA BASE DE GUACAMOLE",
+    "clasificacion": "tostadas",
+    "id": 19,
+    "title": "TOSTADA TRADICIONAL",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-wPLSVHYCZ5C9OAAl81QrnGz_1rmcnUbfu74sZc_AFUp8bWtS30oSf7TiLETm5tBcTBHQzSGL8UtDffMuTkSber_kTMSJXi0qcv4Y7hGPTOqGX0_Ehp0_zaFZIm7nS-Gp3kKaFQl3LzN5OfT9qyU-_aeZnNfrus1-muN1VTgWUpWkmqF65UB4Tmli_A/s320/291951521_458833199577890_927046634370232450_n.jpg"
+  },
+  { 
+    "precio": 50,
+    "mas": "CHAPULINES AL AJILLO CON GUACAMOLE",
+    "clasificacion": "tostadas",
+    "id": 20,
+    "title": "TOSTADA DE CHAPULÍN",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-wPLSVHYCZ5C9OAAl81QrnGz_1rmcnUbfu74sZc_AFUp8bWtS30oSf7TiLETm5tBcTBHQzSGL8UtDffMuTkSber_kTMSJXi0qcv4Y7hGPTOqGX0_Ehp0_zaFZIm7nS-Gp3kKaFQl3LzN5OfT9qyU-_aeZnNfrus1-muN1VTgWUpWkmqF65UB4Tmli_A/s320/291951521_458833199577890_927046634370232450_n.jpg"
+  },
+
+  { 
+    "precio": 50,
+    "mas": "jemis",
+    "clasificacion": "tostadas",
+    "id": 21,
+    "title": "jemis",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-wPLSVHYCZ5C9OAAl81QrnGz_1rmcnUbfu74sZc_AFUp8bWtS30oSf7TiLETm5tBcTBHQzSGL8UtDffMuTkSber_kTMSJXi0qcv4Y7hGPTOqGX0_Ehp0_zaFZIm7nS-Gp3kKaFQl3LzN5OfT9qyU-_aeZnNfrus1-muN1VTgWUpWkmqF65UB4Tmli_A/s320/291951521_458833199577890_927046634370232450_n.jpg"
+  }
+
+
+  
+
+]
